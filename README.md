@@ -27,7 +27,10 @@ This project focuses on cleaning and preprocessing a simulated e-commerce custom
 - A clean, deduplicated, and standardized customer dataset ready for downstream analysis such as customer segmentation, churn prediction, and reporting.
 - <a  href="https://github.com/kvkoushik875/Data-cleaning-projects/blob/main/cleaned_customers_data.csv">Cleaned_customers_data</a>
 
+
+
 # Project 2: People Dataset – Data Cleaning & Preprocessing
+
 # Project Description
 - This project involves cleaning a demographic people dataset containing inconsistent job titles, malformed phone numbers, mixed date formats, and missing personal attributes. The objective is to ensure data consistency and reliability for analytics, HR reporting, and data science workflows.
 
