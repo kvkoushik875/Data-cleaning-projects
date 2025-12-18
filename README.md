@@ -85,4 +85,4 @@ This project focuses on cleaning and preprocessing a simulated e-commerce custom
 
 ## Outcome
 - A clean and standardized organization dataset ready for business analytics, market segmentation, and company profiling.
-- <a href="- <a href="https://github.com/kvkoushik875/Data-cleaning-projects/blob/main/organizations-100.csv">Cleaned Organization Dataset</a>">Organization Dataset</a>
+- <a href="https://github.com/kvkoushik875/Data-cleaning-projects/blob/main/cleaned_organizations_data.csv">Cleaned Organization Dataset</a>
